@@ -16,6 +16,8 @@
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olachi-efika-65b07627)
 
+---
+
 ### :electric_plug: Connect with Me :
 
 <div id="badges">
@@ -41,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   </div>
+
 ---
 
 ### :hammer_and_wrench: Tools :
@@ -52,6 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain.svg" title="Jira" **alt="Jira" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
