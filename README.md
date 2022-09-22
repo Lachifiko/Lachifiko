@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Lachifiko
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Foundations of web development on The Odin Project
-- 💞️ I’m looking to collaborate on developing a projects portfolio
+- 👋 Hi, I’m Olachi Efika
+- 👀 I’m an aspiring Full-Stack Web Developer with a background in law. I am passionate about learning and hope to showcase my learning in what I create.
+- 🌱 I’m learning web development through The Odin Project
+- 🌱 I’m learning python through Python For Everybody(PY4E)
+- 🌱 I’m learning cloud computing on AWS through the SheBuilds CloudUp program
+- 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/olachi-efika-65b07627
 
 <!---
