@@ -10,9 +10,10 @@
 
 - 👋 Hi, I’m Olachi Efika
 - 👀 I’m an aspiring Full-Stack Web Developer with a background in law. I am passionate about learning and hope to showcase my learning in what I create.
-- 🌱 I’m learning web development through The Odin Project
-- 🌱 I’m learning python through Python For Everybody(PY4E)
-- 🌱 I’m learning cloud computing on AWS through the SheBuilds CloudUp program
+- 🌱 I learnt web development through The Odin Project
+- 🌱 I learnt python through Python For Everybody(PY4E)
+- 🌱 I learnt cloud computing on AWS through the SheBuilds CloudUp program
+- 🌱 I am currently learning DevOps through VisualPath
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olachi-efika-65b07627)
 
