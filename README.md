@@ -9,7 +9,7 @@
 ### :woman_technologist: About Me :
 
 - 👋 Hi, I’m Olachi Efika
-- 👀 I’m an aspiring Full-Stack Web Developer with a background in law. I am passionate about learning and hope to showcase my learning in what I create.
+- 👀 I am a DevOps professional with a background in law. I am passionate about learning and hope to showcase my learning in what I create.
 - 🌱 I learnt web development through The Odin Project
 - 🌱 I learnt python through Python For Everybody(PY4E)
 - 🌱 I learnt cloud computing on AWS through the SheBuilds CloudUp program
