@@ -61,8 +61,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>  
 </div>
 
 ---
