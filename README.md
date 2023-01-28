@@ -58,7 +58,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>  
