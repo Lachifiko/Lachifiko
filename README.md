@@ -9,9 +9,10 @@
 ### :woman_technologist: About Me :
 
 - 👋 Hi, I’m Olachi Efika
-- 👀 I am a DevOps professional who is passionate about learning and hope to showcase my learning in what I create.
-- 🌱 I am a beneficiary of a wealth of mostly free resources such as The Odin Project, Python For Everybody(PY4E), SheBuilds CloudUp program, VisualPath, Cloud     Project Bootcamp, Team Alpha DevOps Mentorship
-- 💞️ I’m looking to collaborate on group projects
+- 👀 I am interested in Cloud Computing & DevOps tools.
+- 👀 I am passionate about learning and hope to showcase my learning in what I create.
+- 🌱 I am a beneficiary of a wealth of mostly resources such as The Odin Project, Python For Everybody(PY4E), SheBuilds CloudUp program, VisualPath, Cloud Project Bootcamp, Team Alpha DevOps Mentorship
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olachi-efika-65b07627)
 
 ---
